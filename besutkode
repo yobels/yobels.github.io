@@ -1,0 +1,80 @@
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=640">
+
+    <link rel="stylesheet" href="stylesheets/core.css" media="screen">
+    <link rel="stylesheet" href="stylesheets/mobile.css" media="handheld, only screen and (max-device-width:640px)">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+
+
+    <script type="text/javascript" src="javascripts/modernizr.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/javascript" src="javascripts/headsmart.min.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function () {
+        $('#main_content').headsmart()
+      })
+    </script>
+    <title>Bella Aprilia by yobels</title>
+  </head>
+
+  <body>
+        <div class="shell">
+
+      <header>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            <h1>Bella Aprilia</h1>
+            <h2>It&#39;s a workshop about Face Recognition using C# and EmguCV</h2>
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+      </header>
+
+      <div id="no-downloads">
+        <span class="inner">
+        </span>
+      </div>
+
+
+      <span class="banner-fix"></span>
+
+
+      <section id="main_content">
+<h2>Besut Kode Universitas</h2>
+                    <p class="lead">Disini sih cerita nya curhat</p>
+                    <p class="lead">Tentang apa saja yang terjadi dalam lomba Besut Kode Universitas yang diadakan oleh <a id="wiki-in" href="https://www.facebook.com/wikimedia.indonesia/?fref=ts">Wikimedia Indonesia</a> oleh sang pendiri John Vandenberg. Lomba ini menarik, menegangkan, dan penuh keramahan dengan mentor dan peserta Besut Kode Universitas lainnya. Sangat menarik untuk dilanjutkan untuk Mencapai GSOC (tebak apa itu ya, apaga tanya mbah google) walaupun ga sampai GSOC juga masih ada hikmahnya, disini saya dapat ilmu yang belum saya dapat pelajari sebelumnya.
+                    Ketika lolos masuk menjadi peserta Besut Kode Universitas, lumayan excited, hahaha. Deg-degan juga, i just have a bit of coding skill, so, i'm bit nervous. Buat para peserta yang ahli terbiasa coding pasti mengerjakan task dan mini task nya mudah, cuma beberapa dari mereka yang mepet waktu aja jadi ada yang ngerjainnya deadline tapi itupun mereka selesai just in a minute, waaaww.. Peserta di Besut Kode Universitas baik dan ramah semua, apalagi mentornya, selalu membantu setiap peserta dengan sabar. Di dalam forum yang disediakan setiap peserta bisa sharing bertanya tentang kendala yang dialami saat menyelesaikan task nya dan juga saling menyemangati satu sama lain, waaawww lagi bukan ?
+                    Jadi, i don't feel like this is a competition, jadi seperti belajar bareng, kerja kelompok bareng, saling ngasih tau. Ga pernah nyesel ikut Besut Kode Universitas, karena rasa tertekan akan kompetisi nya ga terlalu berasa, ilmunya dapet banget, dan kenal orang-orang hebat. Berharga banget, apalagi kompetisinya gratis kawan-kawan. Thanks for the Founder and the Mentor Mr. John VandenBerg and kawan-kawan Besut Kode Universitas. Sukses YA! Keep Sharing ilmu kalian.
+                    
+                    
+                    </p>
+                     
+      
+      </section>
+      
+      
+
+      <footer>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            <p>Projects by <a href="https://github.com/yobels">yobels</a> can be found on <a href="https://github.com/yobels">GitHub</a></p>
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+        <p>Generated with <a href="https://pages.github.com">GitHub Pages</a> using Merlot</p>
+        <p>Project Euler Profile <a href="https://projecteuler.net/profile/yobels.png">yobels</a></p>
+        <span class="octocat"></span>
+      </footer>
+
+    </div>
+   
+  </body>
+</html>
